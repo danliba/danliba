@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danliba
 - 👀 I’m interested in oceanography, AI, fisheries
 - 🌱 I’m currently learning AI, ML, DL
-- 💞️ I’m looking to collaborate on python coding
+-    I’m looking to collaborate on python coding
 - 📫 How to reach me da.lizarbebar@gmail.com
 
 <!---
